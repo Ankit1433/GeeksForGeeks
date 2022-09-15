@@ -1,4 +1,4 @@
-package nimti;
+package searching;
 
 public class searchinsortedroted {
     static int func6(int arr[],int x){
