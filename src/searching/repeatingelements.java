@@ -17,7 +17,7 @@ public class repeatingelements {
     }
 
     public static void main(String[] args) {
-    int[] arr ={0,1,2,3,5,5,4,5};
+    int[] arr ={0,2,1,3,2,2};
     int n=arr.length;
         System.out.println(findrepeating(arr,n));
     }
